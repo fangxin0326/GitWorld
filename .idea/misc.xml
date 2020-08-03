@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="D:/gamll-001/guli/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="D:/gamll-001/guli/common/common-util/pom.xml" />
+        <option value="D:/gamll-001/guli/common/pom.xml" />
+        <option value="D:/gamll-001/guli/common/service-base/pom.xml" />
+        <option value="D:/gamll-001/guli/infrastructure/eureka-server/pom.xml" />
+        <option value="D:/gamll-001/guli/infrastructure/pom.xml" />
+        <option value="D:/gamll-001/guli/pom.xml" />
+        <option value="D:/gamll-001/guli/service/pom.xml" />
+        <option value="D:/gamll-001/guli/service/service-edu/pom.xml" />
+        <option value="D:/gamll-001/guli/service/service-oss2/pom.xml" />
+        <option value="D:/gamll-001/guli/service/service-sms1/pom.xml" />
+        <option value="D:/gamll-001/guli/service/service-statistics/pom.xml" />
+        <option value="D:/gamll-001/guli/service/service-ucenter/pom.xml" />
+        <option value="D:/gamll-001/guli/service/service-vod/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

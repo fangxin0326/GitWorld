@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://D:/gamll-001/guli/common/common-util/src/main/java" charset="UTF-8" />
+    <file url="file://D:/gamll-001/guli/common/common-util/src/main/resources" charset="UTF-8" />
+    <file url="file://D:/gamll-001/guli/common/service-base/src/main/java" charset="UTF-8" />
+    <file url="file://D:/gamll-001/guli/common/service-base/src/main/resources" charset="UTF-8" />
+    <file url="file://D:/gamll-001/guli/infrastructure/eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://D:/gamll-001/guli/infrastructure/eureka-server/src/main/resources" charset="UTF-8" />
+    <file url="file://D:/gamll-001/guli/service/service-edu/src/main/java" charset="UTF-8" />
+    <file url="file://D:/gamll-001/guli/service/service-oss2/src/main/java" charset="UTF-8" />
+    <file url="file://D:/gamll-001/guli/service/service-oss2/src/main/resources" charset="UTF-8" />
+    <file url="file://D:/gamll-001/guli/service/service-sms1/src/main/java" charset="UTF-8" />
+    <file url="file://D:/gamll-001/guli/service/service-sms1/src/main/resources" charset="UTF-8" />
+    <file url="file://D:/gamll-001/guli/service/service-statistics/src/main/java" charset="UTF-8" />
+    <file url="file://D:/gamll-001/guli/service/service-ucenter/src/main/java" charset="UTF-8" />
+    <file url="file://D:/gamll-001/guli/service/service-vod/src/main/java" charset="UTF-8" />
+    <file url="file://D:/gamll-001/guli/service/service-vod/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
